@@ -75,7 +75,7 @@ python3 -c "import pygame; print(pygame.version.ver)"
 
 **Option A – Cloner avec Git :**
 ```bash
-git clone https://github.com/TON_PSEUDO/DonkeyKong.git
+git clone https://github.com/120480986kf-alt/Donkey-kong-Game
 cd /CHEMIN/VERS/LE/PROJET/DonkeyKong
 ```
 
